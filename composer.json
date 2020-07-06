@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "khanamiryan/qrcode-detector-decoder": "^1.0",
+      "ext-json": "*",
+      "ext-dom": "*",
+      "ext-redis": "*"
+    }
+}
